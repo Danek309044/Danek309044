@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">👨‍💻 I've programmed 3 Discord Bots and 1 Website<br>🎯 Goal: Make a better website</p>
+<p align="center">👨‍💻 I've programmed 3 Discord Bots and 1 Website<br>🎯 Goal: Get more to know HTML and CSS</p>
 
 ###
 
